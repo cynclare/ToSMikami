@@ -1,7 +1,10 @@
-パスワードはモデルデータ内Readmeファイルの連絡先の前に書いてあります。<br>パスワードに関する質問には一切お答えできません。<br>
-Password is written above "Contacts" in README.md. ANY question about password is NOT acceptable.
-
 # 利用規約 / Terms of Service
+- 本利用規約はBooth及びDLSiteにて販売中の3Dモデル「ミカミさん」の利用規約の全文になります。
+
+# 概要
+- 許可：個人による非商用利用・改変・二次（三次？）創作、アバターとしての使用、配信や動画への写りこみ、成年向け作品への使用
+- 要相談：個人法人問わず商用利用
+- 禁止：18歳未満の使用、再配布・再販売、公序良俗に反する行為や表現への利用、特定個人団体への中傷、キャラクターも含め製作者を偽る行為
 
 ## 著作権 / Copyright
 - 本モデルはあるミニウム氏製作のゲーム『びたみんクエスト』を原作とし、許可を得てCynclareがモデルを製作したものです。<br>
@@ -17,7 +20,7 @@ The "user" is the individual or corporation that download this model.
 
 ## 禁止事項 / Prohibitions
 - 本モデルのモデルデータ・テクスチャデータの再配付・再販売は改変の有無を問わず禁止します。<br>
-再配布とは本モデルデータ・テクスチャデータを第三者が容易に抜き出すことができる形でのアップロード行為全般を指します。
+再配布には本モデルデータ・テクスチャデータを第三者が容易に抜き出すことができる形でのアップロード行為全般を含みます。
 - 公序良俗に反する行為や表現に利用することを禁止します。
 - 特定個人や団体への中傷を目的とした利用を禁止します。
 - 本モデル及びキャラクターの著作者を偽る行為を禁止します。
@@ -88,7 +91,7 @@ Cynclare　及び　あるミニウム
 
 # 連絡先 / Contacts
 Cynclare<br>
-Mail:cynclare@\gmail.com<br>
+Mail:cynclare%40gmail.com<br>
 Twitter:https://twitter.com/Cynclare_b　
 <br>
 あるミニウム<br>
