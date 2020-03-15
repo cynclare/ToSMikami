@@ -1,3 +1,5 @@
+![Alt](https://github.com/cynclare/ToSMikami/blob/master/mikami_promo1s.jpg)
+
 # 利用規約 / Terms of Service
 - 本利用規約はBooth及びDLSiteにて販売中の3Dモデル「ミカミさん」の利用規約の全文になります。
 
