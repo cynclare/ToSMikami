@@ -12,13 +12,13 @@
 ## 著作権 / Copyright
 - 本モデルはあるミニウム氏製作のゲーム『びたみんクエスト』を原作とし、許可を得てCynclareがモデルを製作したものです。<br>
 キャラクターに対する著作権は原作者あるミニウム氏に帰属し、3Dモデルに対する著作権はモデル製作者Cynclareに帰属するものとします。<br>
--This model is based on the game "Vitamin Quest" produced by Aluminium and with his permission, Cynclare created the model. <br>
+- This model is based on the game "Vitamin Quest" produced by Aluminium and with his permission, Cynclare created the model. <br>
 The copyright to the character belongs to the original author Aluminium, and the copyright to the 3D model belongs to the model creator Cynclare.
 
 ## 利用者の同意の成立 / Establishment of user consent
 - 利用者は本モデルの購入時及び利用時のそれぞれにおいて本規約の内容をすべて理解し、同意したものとみなします。<br>
 「利用者」とは本モデルデータをダウンロードした個人・法人を指します。<br>
--The user understands and agrees to the entire contents of this agreement at each stage of purchasing and using this model. <br>
+- The user understands and agrees to the entire contents of this agreement at each stage of purchasing and using this model. <br>
 The "user" is the individual or corporation that download this model data.
 
 ## 禁止事項 / Prohibitions
@@ -67,11 +67,11 @@ If in doubt, consult the original author and model author in advance.
 
 # 免責 / Disclaimer
 - 各著作権者は、本モデルに関連して生じた利用者及び第三者の結果的損害、付随的損害、逸失利益等の間接損害について、それらの予見または予見可能性の有無にかかわらず一切の責任を負いません。<br>
-また、本モデルの購入に対して返品・返金・交換はできません。<br>
+本モデルの購入に対して返品・返金・交換はできません。<br>
 ただし、各著作権者に故意または重過失がある場合には本項は適用されません。
 - Each copyright owner is NOT responsible for  the consequential damages, incidental damages, lost profits and other indirect damages caused by the user and third parties in connection with this model, regardless of whether they are foreseeable or predictable.  <br>
 No returns, refunds or exchanges are available for purchases of this model.
-However, this section does not apply if each copyright owner has intentional or gross negligence.
+This section does not apply if each copyright owner has intentional or gross negligence.
 
 # 損害賠償額の制限 / Limitation of damages
 - 本モデルの利用に関しモデル製作者が損害賠償責任を負う場合、利用者がモデル製作者に本モデルの対価として支払った総額を限度額として賠償責任を負うものとします。
@@ -81,14 +81,14 @@ However, this section does not apply if each copyright owner has intentional or 
 # 規約の変更 / Change terms
 - 本規約は随時変更、削除または追加される場合があります。<br>
 その場合、モデル作者が変更内容について販売Webサイトに記載を行うものとします。
--These Terms may be changed, deleted or added at any time. <br>
+- These Terms may be changed, deleted or added at any time. <br>
 In that case, the model creator shall describe the changes on the sales website.
 
 ## 補記 / supplement
 - 本規約は日本語・英語で書かれています。<br>
-翻訳間に差異がある場合、日本語によるものが優先されるものとします。
+翻訳間に差異がある場合、日本語による最新のものが優先されるものとします。
 - These terms are written in Japanese and English. <br>
-If there is a difference between the translations, the one in Japanese will take precedence.
+If there is a difference between the translations, the one the latest, in Japanese will take precedence.
 
 # 規約制定日・制定者 / Date and Author
 2020年3月21日
