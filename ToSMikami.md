@@ -5,7 +5,7 @@
 - 本利用規約はBooth及びDLSiteにて販売中の3Dモデル「ミカミさん」の利用規約の全文になります。
 
 # 概要
-- 許可：個人による非商用利用・改変・二次（三次？）創作、アバターとしての使用、配信や動画への写りこみ、成年向け作品への使用
+- 許可：個人による非商用利用・改変・流用・二次（三次？）創作、アバターとしての使用、配信や動画への写りこみ、成年向け作品での利用
 - 要相談：個人法人問わず商用利用
 - 禁止：18歳未満の使用、再配布・再販売、公序良俗に反する行為や表現への利用、特定個人団体への中傷、キャラクターも含め製作者を偽る行為
 
@@ -16,18 +16,18 @@
 The copyright to the character belongs to the original author Aluminium, and the copyright to the 3D model belongs to the model creator Cynclare.
 
 ## 利用者の同意の成立 / Establishment of user consent
-- 利用者は本モデルの購入時及び利用時のそれぞれの段階において本規約の内容をすべて理解し、同意したものとみなします。<br>
-利用者とは本モデルをダウンロードした個人・法人を指します。<br>
+- 利用者は本モデルの購入時及び利用時のそれぞれにおいて本規約の内容をすべて理解し、同意したものとみなします。<br>
+「利用者」とは本モデルデータをダウンロードした個人・法人を指します。<br>
 -The user understands and agrees to the entire contents of this agreement at each stage of purchasing and using this model. <br>
-The "user" is the individual or corporation that download this model.
+The "user" is the individual or corporation that download this model data.
 
 ## 禁止事項 / Prohibitions
 - 本モデルのモデルデータ・テクスチャデータの再配付・再販売は改変の有無を問わず禁止します。<br>
-再配布には本モデルデータ・テクスチャデータを第三者が容易に抜き出すことができる形でのアップロード行為全般を含みます。
+「再配布」には本モデルデータ・テクスチャデータを第三者が容易に抜き出すことができる形でのアップロード行為全般を含みます。
 - 公序良俗に反する行為や表現に利用することを禁止します。
 - 特定個人や団体への中傷を目的とした利用を禁止します。
-- 本モデル及びキャラクターの著作者を偽る行為を禁止します。
-- 18歳未満の使用を禁止します。
+- 本モデル及びキャラクターの著作権者を偽る行為を禁止します。
+- 18歳未満の利用を禁止します。
 - Redistribution and resale of model data and texture data of this model is prohibited, with or without modification. <br>
 "Redistribution" includes all uploading activities that allows third parties to easily extract the model data and texture data.
 - Prohibition to use it for acts or expressions that are against public order and morals.
@@ -67,8 +67,10 @@ If in doubt, consult the original author and model author in advance.
 
 # 免責 / Disclaimer
 - 各著作権者は、本モデルに関連して生じた利用者及び第三者の結果的損害、付随的損害、逸失利益等の間接損害について、それらの予見または予見可能性の有無にかかわらず一切の責任を負いません。<br>
+また、本モデルの購入に対して返品・返金・交換はできません。<br>
 ただし、各著作権者に故意または重過失がある場合には本項は適用されません。
 - Each copyright owner is NOT responsible for  the consequential damages, incidental damages, lost profits and other indirect damages caused by the user and third parties in connection with this model, regardless of whether they are foreseeable or predictable.  <br>
+No returns, refunds or exchanges are available for purchases of this model.
 However, this section does not apply if each copyright owner has intentional or gross negligence.
 
 # 損害賠償額の制限 / Limitation of damages
