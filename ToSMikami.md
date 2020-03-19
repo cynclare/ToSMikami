@@ -1,13 +1,24 @@
 ![Alt](https://github.com/cynclare/ToSMikami/blob/master/mikami_promo1s.jpg)
 ![Alt](https://github.com/cynclare/ToSMikami/blob/master/mikami_promo2s.jpg)
 
-# 利用規約 / Terms of Service
+# 利用規約 / Terms of Use
 - 本利用規約はBooth及びDLSiteにて販売中の3Dモデル「ミカミさん」の利用規約の全文になります。
 
-# 概要
+# 概要 / Overview
 - 許可：個人による非商用利用・改変・流用・二次（三次？）創作、アバターとしての使用、配信や動画への写りこみ、成年向け作品での利用
 - 要相談：個人法人問わず商用利用
 - 禁止：18歳未満の使用、再配布・再販売、公序良俗に反する行為や表現への利用、特定個人団体への中傷、キャラクターも含め製作者を偽る行為
+- Permission: Non-commercial use / Modification / Diversion / Secondary Creation by individual, 
+Use as avatar, 
+Reflection in distribution and video,
+and Use in adult work
+- Consultation required: Corporation use,
+Commercial use (regardless of individual or corporation)
+- Prohibition: Use under age of 18,
+Resell and Redistribution, 
+Use for acts or expressions that are against public order and morals,
+Slandering to a specific individual organization,
+and Falsifying the creator including original characters
 
 ## 著作権 / Copyright
 - 本モデルはあるミニウム氏製作のゲーム『びたみんクエスト』を原作とし、許可を得てCynclareがモデルを製作したものです。<br>
